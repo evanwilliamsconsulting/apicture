@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, takePicture!</string>
+    <string name="app_name">APicture</string>
+    <string name="btnClick">btnClick</string>
+    <string name="sendtext">Send Text!</string>
+    <string name="demo">New Holland Press News</string>
+    <string name="next">Next!</string>
+    <string name="take">Take Picture!</string>
+    <string name="desc">desc</string>
+    <string name="upload">Upload</string>
+    <string name="describe">Blurb It!</string>
+    <string name="blurb">Blurb</string>
+    <string name="caption">Caption</string>
+    <string name="prompt_username">prompt_username</string>
+    <string name="textUsername">textUsername</string>
+</resources>
